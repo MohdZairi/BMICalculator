@@ -7,4 +7,8 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 </p>
 
+This coding is intended to train skills for backend. You guys can refer to this source for more detail.
 
+Credit: Source = https://youtu.be/YUFcJiq2KMI
+
+I hope You guys support their video,thanks :)
